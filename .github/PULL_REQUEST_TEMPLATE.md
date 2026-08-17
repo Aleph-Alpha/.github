@@ -26,6 +26,7 @@ For a genuine no-ticket change, apply a `no-ticket` label and justify it below.
 <!--
 Change risk assessment (C5 DEV-03) and categorisation (C5 DEV-05).
 Tick exactly ONE risk level, then all impact areas that apply.
+If you add "None" or "N/A" in this field, then you have to say why or reference a doc
 -->
 - [ ] **Low** — isolated and easily reversible; no security or data-handling impact
 - [ ] **Medium** — touches shared components or user-facing behaviour; contained blast radius
