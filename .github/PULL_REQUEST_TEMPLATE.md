@@ -2,14 +2,13 @@
 Aleph-Alpha default pull request template.
 
 Please complete every section - if one does not apply, write "None" or "N/A"
-and say why. Based on the Engineering Quality Gates - Code Quality (SPHER-6434):
-https://aleph-alpha.atlassian.net/wiki/spaces/Customer/pages/2242707545/Engineering+Quality+Gates+Code+Quality
+and say why.
 -->
 
 ## Reference
 <!--
 Link the Jira ticket, confluence doc etc. this change implements. For JIRA ticket, put the key in the
-branch name or PR title as well, so the PR-to-Jira quality gate passes.
+branch name or PR title as well.
 For a genuine no-ticket change, apply a `no-ticket` label and justify it below.
 -->
 
