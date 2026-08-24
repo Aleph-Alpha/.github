@@ -2,13 +2,15 @@
 Aleph-Alpha default pull request template.
 
 Please complete every section - if one does not apply, write "None" or "N/A"
-and say why.
+and say why. See [change management doc](https://aleph-alpha.atlassian.net/wiki/spaces/Customer/pages/2696118367/Change+Management+Process#Risk-categories) for more details
+
+Write the JIRA ticket key in the branch name or PR title.
 -->
+
 
 ## Reference
 <!--
-Link the Jira ticket, confluence doc etc. this change implements. For JIRA ticket, put the key in the
-branch name or PR title as well.
+Link the Jira ticket, confluence doc etc. this change implements. 
 For a genuine no-ticket change, apply a `no-ticket` label and justify it below.
 -->
 
