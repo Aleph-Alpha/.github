@@ -27,13 +27,14 @@ pr-description quality gate.
 <!--
 Change risk assessment (C5 DEV-03) and categorisation (C5 DEV-05).
 Standard change patterns are assigned a default risk category. Pick the pattern from the list below.
-If the change does not fit into one of the boxes below, it is a Normal change and requires a risk assessment.
+Try to keep the scope of the change within one of the patterns to keep the risk within bounds.
+If the change does not fit into one of the boxes below, or the risk is higher than moderate, it is a Normal change and requires a risk assessment.
 See [change management doc](https://aleph-alpha.atlassian.net/wiki/spaces/Customer/pages/2696118367/Change+Management+Process#Risk-categories) for more details
 -->
 
 Standard change patterns are assigned a default risk category (negligible - moderate):
 
-**Change Pattern** (tick all that apply):
+**Change Pattern** (tick only one):
 - [ ] Security / authentication / authorization
 - [ ] Data handling / privacy
 - [ ] Availability / performance
