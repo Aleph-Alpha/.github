@@ -1,5 +1,5 @@
 <!--
-Aleph-Alpha default pull request template.
+Aleph-Alpha standard change pull request template.
 
 Complete every section - if one does not apply, write "None" or "N/A"
 and say why.
@@ -26,20 +26,19 @@ pr-description quality gate.
 ## Risk classification
 <!--
 Change risk assessment (C5 DEV-03) and categorisation (C5 DEV-05).
-Tick exactly ONE risk level, then all impact areas that apply.
-If you add "None" or "N/A" in this field, then you have to say why or reference a doc
+Standard change patterns are assigned a default risk category. Pick the pattern from the list below.
+If the change does not fit into one of the boxes below, it is a Normal change and requires a risk assessment.
 See [change management doc](https://aleph-alpha.atlassian.net/wiki/spaces/Customer/pages/2696118367/Change+Management+Process#Risk-categories) for more details
 -->
-- [ ] **Low** — isolated and easily reversible; no security or data-handling impact
-- [ ] **Medium** — touches shared components or user-facing behaviour; contained blast radius
-- [ ] **High** — security/data-handling, schema/data migrations, infrastructure, or wide blast radius
 
-**Impact areas** (tick all that apply):
+Standard change patterns are assigned a default risk category (negligible - moderate):
+
+**Change Pattern** (tick all that apply):
 - [ ] Security / authentication / authorization
 - [ ] Data handling / privacy
 - [ ] Availability / performance
 - [ ] Public API or other breaking change
-- [ ] None of the above
+- [ ] Routine change (none of the above)
 
 
 ## Change monitoring
